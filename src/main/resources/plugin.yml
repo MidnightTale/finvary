@@ -2,3 +2,4 @@ name: finvary
 version: '${version}'
 main: net.hynse.finvary.Finvary
 api-version: '1.20'
+folia-supported: true
